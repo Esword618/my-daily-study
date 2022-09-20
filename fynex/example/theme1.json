@@ -1,0 +1,7 @@
+{
+"Colors": {"background": "#c0c0c0ff"},
+"Colors-light": {"foreground": "#ffffffff"},
+"Sizes": {"iconInline": 5.0},
+"Fonts": {"monospace": "file://./testdata/NotoMono-Regular.ttf"},
+"Icons": {"cancel": "file://./testdata/cancel_Paths.svg"}
+}

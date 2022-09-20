@@ -1,0 +1,41 @@
+{
+    "Colors": {
+        "background": "663",
+        "button": "099",
+        "disabledButton": "c36",
+        "disabled": "f03",
+        "error": "cc0",
+        "focus": "069",
+        "foreground": "f39",
+        "hover": "639",
+        "inputBackground": "f93",
+        "placeHolder": "ff0",
+        "pressed": "369",
+        "primary": "c33",
+        "scrollBar": "fcc",
+        "selection": "9c0",
+        "shadow": "f60"
+    },
+    "Colors-light": {
+        "foreground": "#ffffffff"
+    },
+    "Sizes": {
+        "helperText": 8,
+        "iconInline": 16,
+        "padding": 2,
+        "scrollBar": 5,
+        "scrollBarSmall": 4,
+        "separator": 2,
+        "text": 14,
+        "headingText":20,
+        "subHeadingText": 16,
+        "inputBorder": 2
+    },
+    "Fonts": {
+        "monospace": "file://./testdata/NotoMono-Regular.ttf",
+        "regular": "file://./仿宋_GB2312.ttf"
+    },
+    "Icons": {
+        "cancel": "file://./testdata/cancel_Paths.svg"
+    }
+}
